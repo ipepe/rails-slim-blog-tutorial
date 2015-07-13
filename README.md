@@ -8,4 +8,8 @@ Later when I will finish tutorial i plan to:
  * slug names for urls for articles
  * hook scss bootstrap
  * font-awesome 
+ 
+# License
+Apache License
+Version 2.0, January 2004
 
