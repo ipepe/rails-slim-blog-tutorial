@@ -9,6 +9,11 @@ Later when I will finish tutorial i plan to:
  * hook scss bootstrap
  * font-awesome 
  
+# jruby version
+
+Helpful tutorial:
+https://www.digitalocean.com/community/tutorials/how-to-use-jruby-to-run-a-rails-application-on-apache-tomcat-7-and-ubuntu-14-04
+ 
 # License
 Apache License
 Version 2.0, January 2004
