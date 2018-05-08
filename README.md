@@ -1,3 +1,6 @@
+# WARNING! THIS PROJECT IS NO LONGER MAINTAINED!
+Warning! This project has known security vulnerabilities detected!
+
 # rails-slim-blog-tutorial
 My attempt at creating rails blog tutorial with slim templating. I can be found here: http://guides.rubyonrails.org/getting_started.html
 
